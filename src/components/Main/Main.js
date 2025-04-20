@@ -43,6 +43,9 @@ const Main = () => {
                 <section id="softskills">
                     <SoftSkills />
                 </section>
+
+                <p>Gracias por visitar mi portfolio personal.</p>
+
             </div>
             </article>
 
