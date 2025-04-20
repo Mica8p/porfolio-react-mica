@@ -29,7 +29,7 @@ const Main = () => {
 
                 <img src="/mica.png"  alt="Foto personal" className='mi-foto'/>
 
-                <section>
+                <section className='descarga'>
                 <h2><i className="fas fa-download"></i> Aqui puedes descargar mi cv</h2>
                     <a href="/Cv-PonceLuz.pdf" download className="btn-cv">
                     Descargar CV
