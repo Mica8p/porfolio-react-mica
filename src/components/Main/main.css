@@ -1,0 +1,32 @@
+.about {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+  /* Títulos */
+h2 {
+    color: #ad1457;
+    border-bottom: 2px solid #f48fb1;
+    padding-bottom: 0.3rem;
+}
+
+section {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+  /* Títulos */
+h2 {
+    color: #ad1457;
+    border-bottom: 2px solid #f48fb1;
+    padding-bottom: 0.3rem;
+}
+
+.mi-foto {
+    width: 200px;
+    height: auto;
+}

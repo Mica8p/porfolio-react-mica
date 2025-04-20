@@ -1,0 +1,51 @@
+.proyectos{
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+}
+
+  /* Títulos */
+h2{
+    color: #ad1457;
+    border-bottom: 2px solid #f48fb1;
+    padding-bottom: 0.3rem;
+}
+
+  /* Grid de proyectos */
+.grid-proyectos {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+  /* Tarjetas */
+.card {
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+  /* Botones */
+.btn-ver-mas,
+.btn-cv {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #f48fb1;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-ver-mas:hover,
+.btn-cv:hover {
+    background-color: #ec407a;
+}
