@@ -3,6 +3,7 @@ import './header.css';
 import { Link } from 'react-router-dom';
 
 //Luz Micaela Ponce - legajo 61046
+// Componente Header: muestra navegacion y hola
 
 const Header = () => {
     const scrollTo = (id) => {

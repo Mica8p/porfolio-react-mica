@@ -1,6 +1,9 @@
 import React from 'react';
 import "./contacto.css";
 
+// Componente Contacto: muestra formulario para contactar
+
+
 const Contacto = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
